@@ -1,4 +1,4 @@
-module weand_backend_shared
+module github.com/we-and/weand_backend_shared
 
 go 1.18
 
